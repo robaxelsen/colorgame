@@ -20,5 +20,5 @@ Clone the repository:
 ```
 git clone https://github.com/robeerob/colorgame.git
 ```
-Open up your file browser, and locate the colorgame directory, and simply open
-the colorGame.html file tolay locally in your browser.
+Open up your file browser, and locate the colorgame directory, and open the
+colorGame.html file locally in your browser.
