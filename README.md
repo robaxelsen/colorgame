@@ -1,5 +1,6 @@
 # A JavaScript Color Game
---- Still in development ---
+--- Still in development ---  
+
 Guess what color the rgb() code is by clicking on the color squares.
 
 You can click "New Colors" to reset the colors, and "Try Again?" once you've
